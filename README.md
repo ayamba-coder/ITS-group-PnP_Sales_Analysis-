@@ -30,3 +30,12 @@ to use if the results are similar.
 
 ## Deliverables
 -
+## Team
+1. Batey Martin(repository owner)
+2. Shneider
+3. Didier
+4. Macbrain
+5. Babara
+6. Takor
+7. Nkafu
+8. Mbille
