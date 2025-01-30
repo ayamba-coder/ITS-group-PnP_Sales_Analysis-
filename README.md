@@ -29,7 +29,9 @@ to use if the results are similar.
 4. Analysis visualization using Bar charts,Histogram,and others
 
 ## Deliverables
--
+- Analysis sheet
+- Project report
+  
 ## Team
 1. Batey Martin(repository owner)
 2. Shneider
