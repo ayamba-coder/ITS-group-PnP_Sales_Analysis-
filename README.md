@@ -6,6 +6,27 @@ chairs and monitors. They don’t produce our own products but sell those made b
 companies.
 
 ## Contract
-We were given contract by them to analyse and bring out sales statistics for their new product launch.
-The processes as follows
-*
+We were given contract by them to analyse and bring out sales statistics for the various approaches used on their new product launch.
+
+## Appraoches used
+1. Email
+2. Call
+3. Email + Call
+   
+## Objectives
+-How many customers were there for each approach?
+- What does the spread of the revenue look like overall? And for each method?
+- Was there any difference in revenue over time for each of the methods?
+- Based on the data, which method to recommend they continue to use? Some
+of these methods take more time from the team so they may not be the best for them
+to use if the results are similar.
+
+
+## The process of analysis as follows
+1. Data gathering
+2. Cleaning and validation
+3. Data analysis
+4. Analysis visualization using Bar charts,Histogram,and others
+
+## Deliverables
+-
