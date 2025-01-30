@@ -14,7 +14,7 @@ We were given contract by them to analyse and bring out sales statistics for the
 3. Email + Call
    
 ## Objectives
--How many customers were there for each approach?
+- How many customers were there for each approach?
 - What does the spread of the revenue look like overall? And for each method?
 - Was there any difference in revenue over time for each of the methods?
 - Based on the data, which method to recommend they continue to use? Some
