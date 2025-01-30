@@ -6,7 +6,7 @@ organizations. They are a trusted provider of everything from pens and notebooks
 chairs and monitors. They don’t produce our own products but sell those made by other
 companies.
 
-##Contract
+## Contract
 We were given contract by them to analyse and bring out sales statistics for their new product launch.
 The processes as follows
 *
