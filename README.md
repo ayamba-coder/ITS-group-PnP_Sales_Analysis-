@@ -1,4 +1,4 @@
-# ITS-group-PnP_Sales_Analysis-
+# ITS-group-PnP_Sales_Analysis(group 1)
 ## About Pens and Printers(PnP)
 Pens and Printers was founded in 1984 and provides high quality office products to large
 organizations. They are a trusted provider of everything from pens and notebooks to desk
